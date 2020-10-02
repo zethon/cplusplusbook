@@ -6,3 +6,6 @@ This book is not a C++ course. It would be impossible to write a C++ book withou
 
 ## What this book is
 
+## Quick explanation of a programming language
+
+## Scripted vs Compiled Languages
