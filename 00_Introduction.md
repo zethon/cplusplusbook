@@ -8,4 +8,7 @@ This book is not a C++ course. It would be impossible to write a C++ book withou
 
 ## Quick explanation of a programming language
 
+For computers to be functional they need to know what function they're going to do. This is where programming languages come into play.
+
 ## Scripted vs Compiled Languages
+
