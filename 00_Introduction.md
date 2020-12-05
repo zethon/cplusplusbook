@@ -12,3 +12,15 @@ For computers to be functional they need to know what function they're going to 
 
 ## Scripted vs Compiled Languages
 
+<hr/>
+
+## 0.0: How do you print output to the console?
+
+```cpp
+#include <iostream>
+
+int main()
+{
+	std::cout << "Hello World!\n";
+}
+```
